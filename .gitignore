@@ -1,2 +1,5 @@
 # to ignore exe file
 *.exe
+
+#ignore vs code folder
+.vscode/
