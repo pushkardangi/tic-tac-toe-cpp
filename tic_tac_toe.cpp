@@ -1,20 +1,9 @@
-// Issues :
-// overwriting of the data in box : o can be changed to x and vice versa
-// players name should be global var
-
-// Covered
-// when turn == 5 then start checking who wins
-
 #include <iostream>
 #include <string>
 using namespace std;
 
 // Global variables
 int turn = 0;
-
-// void declare_winner(string p1, string p2){
-
-// }
 
 void check_win(char arr[], char ch)
 {
