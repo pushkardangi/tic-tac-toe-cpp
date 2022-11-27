@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 # to ignore all exe files
 *.exe
 
 # to ignore vs code folder
+=======
+# to ignore exe file
+*.exe
+
+#ignore vs code folder
+>>>>>>> version_1.0
 .vscode/
